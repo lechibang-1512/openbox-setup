@@ -6,3 +6,7 @@
 
 # Start the PolicyKit authentication agent (required for elevated privileges in PCManFM)
 lxpolkit &
+
+# Start tint2 panel
+tint2 &
+
